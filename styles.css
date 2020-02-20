@@ -73,9 +73,7 @@
   /*-----------About----------*/
 
 #about{
-  background:
-  
-  url("https://farm5.staticflickr.com/4618/39708712752_d4c7274eed_o.jpg")no-repeat center center fixed;
+  background: url("https://farm5.staticflickr.com/4618/39708712752_d4c7274eed_o.jpg")no-repeat center center fixed;
   
   display: table;
   height: 1080px;
@@ -124,8 +122,7 @@
 }
 /*------------Contact---------*/
 #contact {
-  background:
-    url("https://live.staticflickr.com/65535/49559627818_3771fd2915_b.jpg")no-repeat center center fixed;
+  background: url("https://live.staticflickr.com/65535/49559627818_3771fd2915_b.jpg")no-repeat center center fixed;
     display: inline-block;
     height: 1080px;
     position: relative;
