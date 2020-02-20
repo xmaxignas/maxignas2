@@ -114,7 +114,7 @@
 }
 /*------------Contact---------*/
 #contact {
-  background: url("https://farm5.staticflickr.com/4660/24833161067_08ce2368c6_o.png")no-repeat center center fixed;
+  background: url("https://live.staticflickr.com/65535/49559627818_3771fd2915_b.jpg")no-repeat center center fixed;
     display: inline-block;
     height: 1440px;
     position: relative;
@@ -133,14 +133,14 @@
 
   .hmu {
     background: rgba(0,0,0,0.5);
-    color: white;
+    color: #424e71;
     width: 83%;
     padding: px;
   }
 
   .hmu h1 {
     position: relative;
-    color: #fff;
+    color: ##424e71;
     font-size: 60px;
     font-family: 'Kaushan Script', sans-serif;
     text-align: center;
@@ -233,7 +233,7 @@
     width: 50%;
     position: relative;
     left: 25%;
-    color: white;
+    color: #424e71;
     font-size: 20px;
     font-weight: 525;
     font-family: 'Quicksand', sans-serif;
