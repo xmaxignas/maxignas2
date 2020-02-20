@@ -75,7 +75,7 @@
 #about{
   background:
   
-  url("https://live.staticflickr.com/65535/49559605183_1036c70422_b.jpg")no-repeat center center fixed;
+  url("https://farm5.staticflickr.com/4618/39708712752_d4c7274eed_o.jpg")no-repeat center center fixed;
   
   display: table;
   height: 1080px;
@@ -125,7 +125,7 @@
 /*------------Contact---------*/
 #contact {
   background:
-    url("https://farm5.staticflickr.com/4660/24833161067_08ce2368c6_o.png")no-repeat center center fixed;
+    url("https://live.staticflickr.com/65535/49559627818_3771fd2915_b.jpg")no-repeat center center fixed;
     display: inline-block;
     height: 1080px;
     position: relative;
@@ -314,7 +314,7 @@
 }
 
 .card-flip:hover .card-front {
-  transform: rotateY(-180deg);
+  transform: rotateY(180deg);
 }
   
 .card-flip:hover .card-back {
