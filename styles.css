@@ -27,7 +27,7 @@
     background:
     url("https://farm5.staticflickr.com/4660/24833161067_08ce2368c6_o.png")no-repeat center center fixed;
     display: table;
-    height: 1080px;
+    height: 1440px;
     position: relative;
     width: 100%;
     -webkit-background-size: cover;
@@ -73,24 +73,16 @@
   /*-----------About----------*/
 
 #about{
-  background: url("https://farm5.staticflickr.com/4618/39708712752_d4c7274eed_o.jpg")no-repeat center center fixed;
+  background: url("https://live.staticflickr.com/65535/49559627818_3771fd2915_b.jpg")no-repeat center center fixed;
   
   display: table;
-  height: 1080px;
+  height: 1440px;
   position: relative;
   width: 100%;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;  
-}
-
-
-#about .headshot {
-  border-radius: 50%;
-  max-width: 250px;
-  margin: 0 auto;
-  padding-top: 25px;
 }
 
 #about h2 {
@@ -122,9 +114,9 @@
 }
 /*------------Contact---------*/
 #contact {
-  background: url("https://live.staticflickr.com/65535/49559627818_3771fd2915_b.jpg")no-repeat center center fixed;
+  background: url("https://farm5.staticflickr.com/4660/24833161067_08ce2368c6_o.png")no-repeat center center fixed;
     display: inline-block;
-    height: 1080px;
+    height: 1440px;
     position: relative;
     width: 100%;
     -webkit-background-size: cover;
@@ -324,7 +316,7 @@
   background:
   url("https://farm5.staticflickr.com/4618/39708712752_d4c7274eed_o.jpg")no-repeat center center fixed;
   display: table;
-  height: 1080px;
+  height: 1440px;
   position: relative;
   width: 100%;
   -webkit-background-size: cover;
