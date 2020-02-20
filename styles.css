@@ -99,7 +99,13 @@
   font-family: 'Quicksand', sans-serif;
   text-align: left;
 }
-
+#about .list {
+  color: #424e71;
+  font-size: 16px;
+  font-weight: 525;
+  font-family: 'Quicksand', sans-serif;
+  text-align: left;
+}
 #about h4 {
   color: #424e71;
   font-size: 34px;
@@ -111,6 +117,15 @@
   font-size: 28px;
   font-family: 'Marck Script', sans-serif;
   text-align: center;
+}
+
+.dev-icons {
+  font-size: 2.5rem;
+  color: #424071;
+}
+
+.dev-icons .list-inline-item i:hover {
+  color:white;
 }
 /*------------Contact---------*/
 #contact {
